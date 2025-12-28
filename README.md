@@ -1,182 +1,59 @@
-## A Free Website Template for Nonprofits
-We want to help introduce the nonprofit community to the powerful world of open source development. Just follow the step-by-step instructions below, and in less than an hour your grassroots nonprofit will have a live, no-cost website complete with online donation capabilities.
+# JEAP – JEAP237 GitHub Pages
 
-But most importantly, by hosting your site and its code on Github you'll allow volunteers to easily contribute to ongoing development of your site.  
+## **JEAP is Now Official: A New Chapter Begins**
 
-___
-#### No Coding Skills Required  
-If you're the type of person that can set up email on your smartphone, you likely have all the skills needed to take advantage of this template. This isn't that hard...you can do it! :smile:
+Welcome to the official repository for **JEAP** — the **Justice, Education, and Advancement Project** — now legally registered and fully recognized as an association under the laws of the **Republic of Cameroon**.
 
-___
-#### Help Others Help You  
-Github makes it crazy simple for people to help with your site. Whether it's volunteers or paid contractors, you're always just a few clicks away from accepting improvements.       
-___
+For many years, JEAP members have walked side by side with **Joan’s Nursery and Primary School** — giving time, resources, prayers, and heartfelt commitment. Until now, much of this work has been behind the scenes. Today, we celebrate a new chapter in our shared journey.
 
-#### Features  
-1. Accept online donations  
-2. Capture email addresses to begin building your supporter database  
+---
 
-#### Demo  
-[https://smartergiving.github.io/free-nonprofit-starter-website/](https://smartergiving.github.io/free-nonprofit-starter-website/)
+## **Our Mission & Objectives**
 
-#### Screenshot  
-![Screenshot](screenshots/screenshot.png?raw=true "Free Nonprofit Starter Template Screenshot")
-___
-#### Benefits  
-1. **Open Source**  
-    Your site and its code will be hosted on Github. This makes it easy for any developer, designer, or copywriter to help customize your site.
+JEAP exists to create lasting impact through education and community development. Its core objectives are:
 
-2. **Totally Free**  
-    No upfront nor ongoing costs.   
+1. **Expand access to quality education** for children in need, regardless of socio-economic background.  
+2. **Provide grade-appropriate learning and teaching materials** to schools.  
+3. **Support schools with financial and technical assistance** to improve operational capacity.  
+4. **Enhance infrastructure and equipment** to improve the teaching and learning environment.  
+5. **Empower children through rehabilitation and guidance**, helping them build better futures.  
+6. **Engage parents and guardians** by encouraging and supporting meaningful participation in children’s learning at home.
 
-3. **Payments by Stripe**   
-    [Stripe](https://stripe.com/gallery) is used by many [tools for nonprofits](https://stripe.com/docs/integrations#fundraising). When you require a more robust fundraising solution than DonorBox offers, switching is easy.    
-___
+---
 
-### Getting Started  
-*Note:* This project does require rolling up your sleeves a bit. If you're looking for a more user-friendly service (albeit paid), we're big fans of [Squarespace](https://squarespace.com) and [Wix](http://www.wix.com/).  
-#### Overview  
-___
-1. Create Github accounts
-2. Fork the repo
-3. Enter your organization's info in `_config.yml`
-4. Create DonorBox and Stripe accounts (for online donations)  
-5. Create TinyLetter account (for email capture)  
-6. Enter DonorBox and TinyLetter credentials in `_config.yml`
-7. Suggested next steps  
+## **A Milestone of Impact**
 
-#### Detailed Tutorial
-___
-**Step 1** Create Github accounts  
+This official recognition is a powerful milestone — and it belongs to you, our members, volunteers, partners, and supporters.
 
-1. Get started by clicking the green "SignUp" button at the top of this page  
+Because of your dedication:
+- JEAP continues to grow.
+- Its impact deepens year after year.
+- In our **Shisong branch alone, 240 pupils are already enrolled**, with more joining every day.
 
-2. Enter your signup information as instructed and click "Create an account"  
+---
 
-3. On the second page ("Choose your Plan"), check the box that says "Help me set up an organization"  
-![Screenshot](screenshots/signup.jpg?raw=true "Free Nonprofit Starter Template Screenshot")  
-4. Follow the remaining steps. Don't forget to confirm your email address.  
+## **Thank You**
 
-___
-**Step 2** Fork the repo  
+We invite you to take a moment to reflect on the lives you are transforming and the futures you are helping shape. You are not just part of JEAP — you are part of a **legacy of hope**.
 
-1. Click the "Fork" button at the top of this page
+> *May God bless you. May God bless JEAP. And may God bless the hearts that gave birth to this mission.*
 
-2. When prompted, click the Organization you just set up  
+**With deep gratitude,**  
+*Resource Mobilization and Finance Committee*
 
-3. Change the name of the repo by clicking "Settings" in the right-hand menu. Name the repo `<orgname>.github.io` (where `<orgname>` is the Organization name you chose for Github) and click "Rename". For example, for us here at Smartergiving, we would name the repo `smartergiving.github.io`.  
-![Settings](screenshots/settings.jpg?raw=true "Free Nonprofit Starter Template Screenshot")
-4. Your site can now be viewed at `<orgname>.github.io`
+---
 
-___
-**Step 3** Enter your organization's info
+## **About This Repository**
 
-1. Click the `_config.yml` file  
-![SignUp](screenshots/config.jpg?raw=true "Create an Account")  
-2. Click the edit button  
-![Edit](screenshots/edit.jpg?raw=true "Edit")  
+This GitHub repository hosts the content and source files for the JEAP website powered by GitHub Pages. It uses Jekyll and the nonprofit starter template to showcase our mission, objectives, and ongoing work. Contributions, improvements, and community support are welcome.
 
-3. Replace the example text with your organization's information  
-![Enter Information](screenshots/enter_info.jpg?raw=true "Enter Information")
+---
 
-4. When finished, "commit" the changes by entering a commit message (e.g. "Update config") in the "Commit changes" box at the bottom of the page. Leave the other options as they are, and click the "Commit changes" button.  
-![Commit](screenshots/commit.jpg?raw=true "Commit")
+## **Get Involved**
 
-5. Preview your site at ` <orgname>.github.io`.
-6. Continue to adjust `_config.yml` as needed.
+To learn more, get involved, or support JEAP:
+- Visit our website: `https://JEAP237.github.io/JEAP/`
+- Contact a member of the Resource Mobilization and Finance Committee
+- Contribute updates or improvements via pull requests
 
-___
-**Step 4** Create DonorBox account
-
-1. Go to [DonorBox](https://donorbox.org/orgs/new) and create an account.  
-2. We suggest using the "Organization Sign Up" option, which will walk you through creating a [Stripe](https://stripe.com/gallery) account. Stripe handles the actual credit card processing.  
-![DonorBox SignUp](screenshots/donorbox_signup.jpg?raw=true "DonorBox SignUp")
-
-3. Follow the prompts to add your first campaign.
-4. **Important**: Be sure you fully understand the [risks of accepting online donations](https://donorbox.org/nonprofit-blog/on-fraud-prevention/).  
-
-___
-**Step 5** Create TinyLetter account  
-
-1. Go to [TinyLetter](http://tinyletter.com/) and create an account by clicking the "Sign Up Free" button  
-
-___
-**Step 6** Enter DonorBox and TinyLetter credentials  
-
-1. Edit the `_config.yml` file and enter your credentials in the appropriate spots
-
-  + **Find your DonorBox campaign name**  
-After you've created a campaign, on your dashboard click "edit" for the campaign you'd like to include on your site. 2/3rds of the way down the page you'll see a "Form URL" box. This is where you'll find your Donorbox Username for `_config.yml`  
-![DonorBox](screenshots/donorbox.jpg?raw=true "DonorBox")   
-
-  + **Find your TinyLetter username**  
-Your TinyLetter Username can be found on your Profile page.  
-![TinyLetter](screenshots/tinyletter.jpg?raw=true "TinyLetter")
-
-___
-**Step 7** Suggested next steps  
-
-1. Ask for help from your supporters or the open source community.  
-    a. [HashtagCharity](https://hashtagcharity.org/charities)  
-    b. [Idealist](http://www.idealist.org/add-org)  
-    c. [Reddit (/r/nonprofitprojects)](https://www.reddit.com/r/nonprofitprojects)
-
-2. Continue development on your own  
-    a. [Set up your local machine](http://ramonaharrison.github.io/jekyll/pixyll/technical/git/github/2015/03/09/how-i-built-my-blog/) (follow steps 1 and 2)  
-    b. Download [Github Desktop](https://desktop.github.com/) and [Atom](https://atom.io/) ([tutorial](https://github.com/jwsy/example-website/tree/master#initial-setup))
-
-3. Need Help? Consider attending one of Github's [workshops](http://patchwork.github.io/) or [online trainings](https://training.github.com/classes/)
-
-___
-#### Color Schemes
-Select an alternative color scheme by changing the `color_scheme:` option in `_config.yml`.  
-
-![Alternative Colors](screenshots/themes.png?raw=true "Alternative Colors")  
-
-___
-#### Extras  
-If you know a little HTML/CSS, the project is built on Bootstrap and offers the full suite of [Bootstrap components](https://smartergiving.github.io/free-nonprofit-starter-website/components-bootstrap.html)
-___
-
-
-### TODOs
-- [ ] CNAME and custom domain instructions
-- [ ] Add cleanup items to tutorial
-  - [ ] Delete gh-pages branch
-  - [ ] Swap README for a "post-launch" one
-- [ ] Open graph metadata
-- [ ] Troubleshooting tips
-
-### Future
-- [ ] Google Analytics
-- [ ] Mailchimp
-- [ ] Paypal
-
-___
-
-### Credits  
-Many thanks to [Xiaoying Riley](https://www.linkedin.com/in/xiaoying) of [3rd Wave Media](http://themes.3rdwavemedia.com/) for the wonderful [open source template](http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/) from which this project is based. License: [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/).
-
-### License
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Chad Kruse, SmarterGiving
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Together, we continue to make a difference.
