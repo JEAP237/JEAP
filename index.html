@@ -262,12 +262,13 @@ layout: default
         <strong>{{ site.org_name }}</strong><br>
         {% if site.org_street_address %}{{ site.org_street_address }},&nbsp;{% endif %}{% if site.org_address_suite %}{{ site.org_address_suite }}<br>{% endif %}
         {% if site.org_city %}{{ site.org_city }},&nbsp;{% endif %}{% if site.org_state %}{{ site.org_state }}&nbsp;{% endif %}{% if site.org_zip %}{{ site.org_zip }}{% endif %}<br>
-        {% if site.org_phone %}
-        <abbr title="Phone">P:</abbr> {{ site.org_phone_cmr }}
-        <abbr title="Phone">P:</abbr> {{ site.org_phone_tky }}
-        <abbr title="Phone">P:</abbr> {{ site.org_phone_uk }}
-        <abbr title="Phone">P:</abbr> {{ site.org_phone_usa }}
-        {% endif %}
+        
+        <div style="margin-top: 10px;">
+          {% if site.org_phone_cmr %}<strong>CMR:</strong> {{ site.org_phone_cmr }}<br>{% endif %}
+          {% if site.org_phone_tky %}<strong>TKY:</strong> {{ site.org_phone_tky }}<br>{% endif %}
+          {% if site.org_phone_uk %}<strong>UK:</strong> {{ site.org_phone_uk }}<br>{% endif %}
+          {% if site.org_phone_usa %}<strong>USA:</strong> {{ site.org_phone_usa }}{% endif %}
+        </div>
       </address>
       <div class="clearfix"></div>
       <div class="info text-center">
