@@ -7,7 +7,8 @@
 org_name: JESTARH EDUCATION ASSISTANCE PROGRAM
 org_name_abbrev: JEAP
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  JEAP empowers communities in Cameroon with education, skills development, and sustainable support — building stronger futures together.
+  JEAP is a grassroot, community-based nonprofit association dedicated to helping vulnerable children stay in school, learn with dignity, and build a brighter future. We believe every child deserves a fair chance to education.
+
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   The JESTARH EDUCATION ASSISTANCE PROGRAM (JEAP) is a community-focused association 
   dedicated to improving educational opportunities and support systems for children in 
@@ -32,15 +33,22 @@ org_vision: "A world where every child in Cameroon, regardless of socio-economic
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_general_email_inbox: jeapjoannursery@gmail.com
+org_street_address: Kumbo
+org_address_suite: Bui Division
+org_city: North West Region
+org_state: Cameroon
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   94103
-org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+org_phone_cmr: > # Enter phone on next line. Be sure to indent by two spaces.
+  (237) 679-023-889
+org_phone_tky: > # Enter phone on next line. Be sure to indent by two spaces.
+  (90) 536-742-24-58
+org_phone_uk: > # Enter phone on next line. Be sure to indent by two spaces.
+  (44) 7846-189-230
+org_phone_usa: > # Enter phone on next line. Be sure to indent by two spaces.
+  (1) 806-731-7656
+  
 
 #SOCIAL MEDIA
 org_twitter_username: smartergiving
