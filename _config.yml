@@ -5,6 +5,7 @@
 
 #REQUIRED
 org_name: JESTARH EDUCATION ASSISTANCE PROGRAM
+org_name_abbrev: JEAP
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
   JEAP empowers communities in Cameroon with education, skills development, and sustainable support — building stronger futures together.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
