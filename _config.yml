@@ -9,7 +9,7 @@ org_name_abbrev: JEAP
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
   JEAP is a grassroot, community-based nonprofit association dedicated to helping vulnerable children stay in school, learn with dignity, and build a brighter future. We believe every child deserves a fair chance to education.
 
-org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
+org_full_description: |
   The JESTARH EDUCATION ASSISTANCE PROGRAM (JEAP) is a community-focused association 
   dedicated to improving educational opportunities and support systems for children in 
   Cameroon. At its core, JEAP provides access to quality learning for pupils from diverse 
@@ -21,11 +21,7 @@ org_full_description: > # Enter your description on the next line. Be sure to in
   enhance educational infrastructure and equipment, strengthening the overall learning 
   environment for students and teachers alike.
 
-  JEAP is committed not only to academic support but also to community empowerment. It 
-  engages children with programs that encourage personal development and helps parents 
-  or guardians actively support their childrens’ learning beyond the classroom. Through 
-  collaboration, compassion, and strategic support, JEAP strives to nurture future 
-  generations and contribute to lasting, positive community impact.
+  JEAP is committed not only to academic support but also to community empowerment.
 
 org_mission: "To empower underserved communities in Cameroon, by removing barriers to quality education through the provision of essential learning materials, infrastructure support, and holistic guidance for children and their families."
 
