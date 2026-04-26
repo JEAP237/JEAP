@@ -9,40 +9,34 @@ org_name_abbrev: JEAP
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
   JEAP is a registered grassroot, community-based nonprofit dedicated to helping vulnerable children stay in school, learn with dignity, and build a brighter future.
 
-
 org_full_description: >
-JESTARH Education Assistance Program (JEAP) is a registered grassroots community-based nonprofit organization with headquarters in Shisong, Bui Division, in the Northwest Region of Cameroon.
+  JESTARH Education Assistance Program (JEAP) is a registered grassroots community-based nonprofit organization with headquarters in Shisong, Bui Division, in the Northwest Region of Cameroon.
 
-Through our integrated approach of providing essential school materials, supporting teachers, improving school infrastructure, and empowering parents and families to take an active role in their children’s education, we strive to address the everyday barriers that prevent children from learning and improve access to quality education.
+  Through our integrated approach of providing essential school materials, supporting teachers, improving school infrastructure, and empowering parents and families to take an active role in their children's education, we strive to address the everyday barriers that prevent children from learning and improve access to quality education.
 
-By working closely with schools, community leaders, and local families, we ensure that our solutions are practical, sustainable, and rooted in the needs of the communities we serve.
+  By working closely with schools, community leaders, and local families, we ensure that our solutions are practical, sustainable, and rooted in the needs of the communities we serve.
 
-At JEAP, we believe that every child deserves the opportunity to learn, grow, and build a brighter future; and we are dedicated to making that a reality.
-
+  At JEAP, we believe that every child deserves the opportunity to learn, grow, and build a brighter future; and we are dedicated to making that a reality.
 
 org_mission: "To support the education needs of children, teachers, and schools in our communities by making quality learning more accessible by providing essential school materials, improving learning spaces, and offering guidance and support to children and their families."
-
 
 org_vision: "A future where every child has an equal chance to learn, grow, and build a brighter future."
 
 #OPTIONAL
-#Non US-address support coming soon
 org_general_email_inbox: jeapjoannursery@gmail.com
 org_street_address: Kumbo
 org_address_suite: Bui Division
 org_city: North West Region
 org_state: Cameroon
-org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
-org_phone_cmr: > # Enter phone on next line. Be sure to indent by two spaces.
+org_zip:
+org_phone_cmr: >
   (237) 679-023-889
-org_phone_tky: > # Enter phone on next line. Be sure to indent by two spaces.
+org_phone_tky: >
   (90) 536-742-24-58
-org_phone_uk: > # Enter phone on next line. Be sure to indent by two spaces.
+org_phone_uk: >
   (44) 7846-189-230
-org_phone_usa: > # Enter phone on next line. Be sure to indent by two spaces.
+org_phone_usa: >
   (1) 806-731-7656
-  
 
 #SOCIAL MEDIA
 org_twitter_username: smartergiving
@@ -50,44 +44,31 @@ org_facebook_username: smartergiving
 org_instagram_username:
 
 #TAX STATUS
-#Your site will display an appropriate message below the Donate section
-#If your organization is fiscally sponsored, enter true below and add your sponsor's name. Otherwise enter false.
 fiscal_sponsor: false
 fiscal_sponsor_name:
-#If your organization is currently registered as a 501(c)3 organization, enter true below. Otherwise enter false. Enter false if you have a fiscal sponsor.
 is_501c3: true
 
 #ONLINE DONATIONS & EMAIL SIGNUPS
-#To use these services, enter the required usernames. For further instructions, consult the README file.
-#If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
 donorbox_campaign_name: jeap-education-fund
 tinyletter_username: interestingnonprofits
 
 #SEARCH ENGINES
-#Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
 publish: false
 
 #COLOR SCHEME
-#Select one of the five color schemes (default, one, two, three, or four)
 color_scheme: default
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
-# Unless you know what you're doing, no need to change anything below
-# Build settings
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: ""
 markdown: kramdown
 kramdown:
   input: GFM
 
 sass:
-    sass_dir: assets/_sass
-    style: compressed
+  sass_dir: assets/_sass
+  style: compressed
 
 #Features under development
-#These are not yet fully supported, but should give you a head start if you know what you're doing
-paypal_button_id: #Not yet available
-smartergiving_id: #Not yet available
-#mailchimp_embed_code: > # Enter Mailchimp post url on next line.
-#  //getkyn.us5.list-manage.com/subscribe/post?u=1407d7ee4cd0d47986cd54315&amp;id=cdc32b64fe
-#mailchimp_spam_guard: b_753395b9f963c9ea2d6980b7c_9e1559c2f0
+paypal_button_id:
+smartergiving_id:
